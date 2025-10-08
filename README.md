@@ -9,7 +9,7 @@
 
 ---
 💻 **About Me (Professional + Technical)**
-- <img src="./icons/engineer.png" width="40" alt="eng" /> DevOps & Cloud Engineer with 5+ years of experience in automating infrastructure, building CI/CD pipelines, and managing cloud platforms like AWS, GCP,
+- <img src="./icons/engineer.png" width="20" alt="eng" /> DevOps & Cloud Engineer with 5+ years of experience in automating infrastructure, building CI/CD pipelines, and managing cloud platforms like AWS, GCP,
 - 👀 I’m interested in ...
 - 🧠 Passionate about learning new DevOps tools and cloud technologies to improve system reliability and scalability.
 - 💼 Currently exploring new opportunities in DevOps and Cloud Engineering where I can contribute to automation, CI/CD, and cloud optimization projects.
