@@ -13,7 +13,9 @@
 - 👀 I’m interested in ...
 - 🧠 Passionate about learning new DevOps tools and cloud technologies to improve system reliability and scalability.
 - 💼 Currently exploring new opportunities in DevOps and Cloud Engineering where I can contribute to automation, CI/CD, and cloud optimization projects.
-- 📫 How to reach me ...
+
+----
+**📫 How to reach me ...**
 
 <!---
 Pradeepkk/Pradeepkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
