@@ -9,13 +9,13 @@
 
 ---
 💻 **About Me (Professional + Technical)**
-- <img src="./icons/engineer.png" width="20" alt="eng" /> DevOps & Cloud Engineer with 5+ years of experience in automating infrastructure, building CI/CD pipelines, and managing cloud platforms like AWS, GCP and Containerization & Orchestration tools like Docker, Kubernetes
+- <img src="./icons/engineer.png" width="20" alt="eng" /> DevOps & Cloud Engineer with 5+ years of experience in automating infrastructure, building CI/CD pipelines, managing cloud platforms like AWS & GCP and Containerization & Orchestration tools like Docker, Kubernetes.
 - 👀 I’m interested in ...
 - 🧠 Passionate about learning new DevOps tools and cloud technologies to improve system reliability and scalability.
 - 💼 Currently exploring new opportunities in DevOps and Cloud Engineering where I can contribute to automation, CI/CD, and cloud optimization projects.
 
 ----
-**📫 Reach me ...**
+**📫 Reach Me At**
 <p>
   <a href="mailto:pradeepkk3636@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pradeepkumar-kalluri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
