@@ -9,13 +9,18 @@
 
 ---
 💻 **About Me (Professional + Technical)**
-- <img src="./icons/engineer.png" width="20" alt="eng" /> DevOps & Cloud Engineer with 5+ years of experience in automating infrastructure, building CI/CD pipelines, and managing cloud platforms like AWS, GCP,
+- <img src="./icons/engineer.png" width="20" alt="eng" /> DevOps & Cloud Engineer with 5+ years of experience in automating infrastructure, building CI/CD pipelines, and managing cloud platforms like AWS, GCP and Containerization & Orchestration tools like Docker, Kubernetes
 - 👀 I’m interested in ...
 - 🧠 Passionate about learning new DevOps tools and cloud technologies to improve system reliability and scalability.
 - 💼 Currently exploring new opportunities in DevOps and Cloud Engineering where I can contribute to automation, CI/CD, and cloud optimization projects.
 
 ----
-**📫 How to reach me ...**
+**📫 Reach me ...**
+<p>
+  <a href="mailto:pradeepkk3636@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pradeepkumar-kalluri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Pradeepkk36"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColorwhite"/></a>
+</p>
 
 <!---
 Pradeepkk/Pradeepkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
