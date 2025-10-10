@@ -12,7 +12,7 @@
 - <img src="./icons/engineer.png" width="20" alt="eng" /> Having 5+ years of experience in automating infrastructure, building CI/CD pipelines, managing cloud platforms like AWS & GCP and Containerization & Orchestration tools like Docker, Kubernetes.
 - 👀 I’m interested in ...
 - 🧠 Enthusiastic about adopting the latest DevOps practices and cloud solutions for robust and scalable systems
-- <h5> <img src="./icons/goal.png" width="20" alt="eng" /> Eager to take on new challenges in DevOps and Cloud Engineering, leveraging my skills in automation, CI/CD, and optimizing cloud platforms. </h5>
+- <img src="./icons/goal.png" width="20" alt="eng" /> Eager to take on new challenges in DevOps and Cloud Engineering, leveraging my skills in automation, CI/CD, and optimizing cloud platforms.
 
 ----
 
